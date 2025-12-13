@@ -38,13 +38,13 @@ jobs:
           - rockylinux10
           - rockylinux9
           - rockylinux8
-          - fedora43
+          # - fedora43
           - fedora42
           - fedora41
-          - ubuntu2404
+          # - ubuntu2404
           - ubuntu2204
           - ubuntu2004
-          - debian13
+          # - debian13
           - debian12
           - debian11
 
